@@ -17,6 +17,10 @@
 /.next/
 /out/
 
+#api
+.env.local
+.env.example
+
 # production
 /build
 
